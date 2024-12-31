@@ -1,4 +1,4 @@
-[![Docker](https://img.shields.io/docker/moustafakamel/o2tv-iptvserver/latest)](https://hub.docker.com/r/goodbyepavlyi/o2tv-iptvserver)
+[![Docker](https://img.shields.io/docker/moustafakamel/o2tv-iptvserver/latest)](https://hub.docker.com/r/moustafakamel/o2tv-iptvserver)
 
 
 
