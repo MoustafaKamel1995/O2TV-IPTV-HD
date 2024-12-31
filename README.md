@@ -1,21 +1,38 @@
-Simple and lightweight IPTV server that allows you to watch live TV channels from O2 TV on your device. It allows to play multiple channels at the same time and supports multiple clients even if you don't have the subscription for it.
+## Installation
 
-Installation
-Note: Before proceeding, ensure that Docker is installed on your system.
+**Note**: Before proceeding, ensure that Docker is installed on your system.
 
-1. Clone the GitHub repository:
+#### 1. Clone the GitHub repository:
+```bash
 git clone https://github.com/goodbyepavlyi/o2tv-iptvserver
-2. Run the container:
+```
+
+#### 2. Run the container:
+```bash
 docker compose up -d
-Update
+```
+
+## Update
+
 To keep your O2 TV IPTV Server up to date, follow these steps:
 
-1. Pull the Latest Docker Image
+#### 1. Pull the Latest Docker Image
+
+```bash
 docker-compose pull
+```
+
 This command will fetch the latest version of the O2 TV IPTV Server Docker image from the Docker Hub.
 
-2. Restart the Container
+
+#### 2. Restart the Container
+```
 docker-compose up -d
+```
+
 By running this command, you'll restart the O2 TV IPTV Server container with the latest image. Your server will now be running the most recent version.
 
 That's it! Your O2 TV IPTV Server is now updated and ready to go. Enjoy the latest features and improvements.
+
+# Contributing
+All contributions are welcome! Please feel free to open a new issue or submit a pull request.
