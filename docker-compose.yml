@@ -1,0 +1,9 @@
+services:
+  o2tv-iptvserver:
+    container_name: "o2tv-iptvserver"
+    image: "moustafakamel/o2tv-iptvserver:latest"
+    ports:
+      - "3000:3000"
+    volumes:
+      - "./o2tv-iptvserver:/app/data"
+    restart: "unless-stopped"

@@ -1,0 +1,4 @@
+services:
+  o2tv-iptvserver:
+    volumes:
+      - "./src:/app"
