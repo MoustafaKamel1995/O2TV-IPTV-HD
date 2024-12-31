@@ -1,5 +1,6 @@
 [![Build & Publish Docker Image to Docker Hub](https://github.com/goodbyepavlyi/o2tv-iptvserver/actions/workflows/docker-image.yml/badge.svg)](https://github.com/goodbyepavlyi/o2tv-iptvserver/actions/workflows/docker-image.yml)
-[![Docker](https://img.shields.io/docker/v/goodbyepavlyi/o2tv-iptvserver/latest)](https://hub.docker.com/r/goodbyepavlyi/o2tv-iptvserver)
+[![Docker]([https://img.shields.io/docker/v/goodbyepavlyi/o2tv-iptvserver/latest](https://img.shields.io/badge/https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fmoustafakamel%2Fo2tv-iptvserver%2Ftags%2Flatest?style=for-the-badge&label=version%202.2.4&link=https%3A%2F%2Fhub.docker.com%2Frepository%2Fdocker%2Fmoustafakamel%2Fo2tv-iptvserver%2Ftags%2Flatest
+))](https://hub.docker.com/r/goodbyepavlyi/o2tv-iptvserver)
 [![Docker](https://img.shields.io/docker/pulls/goodbyepavlyi/o2tv-iptvserver.svg)](https://hub.docker.com/r/goodbyepavlyi/o2tv-iptvserver)
 ![GitHub Stars](https://img.shields.io/github/stars/goodbyepavlyi/o2tv-iptvserver)
 
